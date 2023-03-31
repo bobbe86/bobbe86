@@ -1,4 +1,6 @@
-![alt text](memojiWave.jpg) Hello and **WELCOME** to my **Github** 👋🏾
+<center><img width="200" src="memojiWave.jpg"/></center> 
+
+# Hello and WELCOME to my Github 👋🏾
 
 I am a student of the world currently learning to master Javascript 
 
