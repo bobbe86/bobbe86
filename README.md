@@ -4,18 +4,16 @@
 
 As a relatively new developer, I'm excited to showcase my skills in CSS, HTML, and JavaScript. I have a passion for web development and a desire to create visually stunning and user-friendly websites. These repos feature some of my best work and demonstrate my eagerness to learn and grow as a web developer, particularly in my understanding and implementation of JavaScript. So please, take a moment to browse and let's work together to create something beautiful and functional!
 
+- 🏙️ I'm a Chicago-based front end developer passionate about creating engaging user interfaces
+- 🎼 In my free time, I enjoy playing piano, chess, and analyzing films to learn about storytelling techniques♟️
+- 👾 Constantly improving JavaScript skills to stay up-to-date with the latest developments
+- 🏋🏾 I thrive on challenges and am always seeking new opportunities to grow and learn
+
 <br>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=jolly#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=material-palenight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bobbe86&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
-<p> 
-<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=bobbe86&show_icons=true&theme=dark#gh-dark-mode-only" />
-
-<img  width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbe86&layout=compact"/>
-</p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbe86&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
 <img width="250" src="MemojiLaptop.png"/>
