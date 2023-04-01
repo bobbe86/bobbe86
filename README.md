@@ -5,9 +5,9 @@
 As a relatively new developer, I'm excited to showcase my skills in CSS, HTML, and JavaScript. I have a passion for web development and a desire to create visually stunning and user-friendly websites. These repos feature some of my best work and demonstrate my eagerness to learn and grow as a web developer, particularly in my understanding and implementation of JavaScript. So please, take a moment to browse and let's work together to create something beautiful and functional!
 
 - 🏙️ I'm a Chicago-based front end developer eager to create dynamic and responsive layouts for all devices
-- 👾 I'm actively working to improve my JavaScript and front-end skills for efficient and scalable web development
+- 👾 I'm actively working to improve my front-end skills, with an emphasis on JavaScript
 - 🏋🏾 I thrive on challenges and am always seeking new opportunities to grow and learn
-- 🎼 In my free time, I enjoy playing piano, chess, and analyzing films to learn about storytelling techniques♟️
+- 🎼 In my free time, I enjoy playing piano, ♟️chess, and analyzing 🍿films to learn about storytelling techniques
 
 <br>
 
