@@ -59,6 +59,8 @@ As a relatively new developer, I'm excited to showcase my skills in CSS, HTML, a
 <a href="https://codepen.io/bobby-salazar">
 <img align="left" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 </a>
+<a href="https://www.udemy.com/user/bobby-salazar-3/">
 <img align="left" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
+</a>
 </p>
 
