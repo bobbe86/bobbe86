@@ -6,8 +6,11 @@ As a relatively new developer, I'm excited to showcase my skills in CSS, HTML, a
 
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobbe86&theme=dark&show_icons=true#gh-dark-mode-only)
+
+
 <p> 
-<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=bobbe86&show_icons=true&theme=dark#gh-dark-mode-only" />
+<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=bobbe86&show_icons=true&theme=dark" />
 <img  width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbe86&layout=compact"/>
 </p>
 
