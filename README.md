@@ -7,7 +7,7 @@ As a relatively new developer, I'm excited to showcase my skills in CSS, HTML, a
 - 🏙️ I'm a Chicago-based front end developer eager to create dynamic and responsive layouts for all devices
 - 👾 I'm actively working to improve my front-end skills, with an emphasis on JavaScript
 - 🏋🏾 I thrive on challenges and am always seeking new opportunities to grow and learn
-- 🎼 In my free time, I enjoy playing piano, ♟️chess, and analyzing 🍿films to learn about storytelling techniques
+- 🎼 In my free time, I enjoy playing piano,♟️chess, and analyzing films to learn about storytelling techniques🍿
 
 <br>
 
