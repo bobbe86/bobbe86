@@ -1,12 +1,12 @@
 <img src="Banner.png"/>
 
-# Hello and **WELCOME** to my **Github** 👋🏾
+# Hello and **WELCOME** 👋🏾
 
 As a relatively new developer, I'm excited to showcase my skills in CSS, HTML, and JavaScript. I have a passion for web development and a desire to create visually stunning and user-friendly websites. These repos feature some of my best work and demonstrate my eagerness to learn and grow as a web developer, particularly in my understanding and implementation of JavaScript. So please, take a moment to browse and let's work together to create something beautiful and functional!
 
-- 🏙️ I'm a Chicago-based front end developer passionate about creating engaging user interfaces
+- 🏙️ I'm a Chicago-based front end developer eager to create dynamic and responsive layouts for all devices
 - 🎼 In my free time, I enjoy playing piano, chess, and analyzing films to learn about storytelling techniques♟️
-- 👾 Constantly improving JavaScript skills to stay up-to-date with the latest developments
+- 👾 Actively working to improve my JavaScript and coding skills for efficient and scalable front-end web development
 - 🏋🏾 I thrive on challenges and am always seeking new opportunities to grow and learn
 
 <br>
@@ -36,11 +36,10 @@ As a relatively new developer, I'm excited to showcase my skills in CSS, HTML, a
 <br>
 
 # Connect
-
+<a href="https://www.linkedin.com/in/bobby-salazar-609147266/">
 <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-
+</a>
 </p>
-
 
 <br>
 
@@ -54,9 +53,12 @@ As a relatively new developer, I'm excited to showcase my skills in CSS, HTML, a
 
 
 # Other
-
+<a href="https://www.freecodecamp.org/YourGrace">
 <img align="left" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
+</a>
+<a href="https://codepen.io/bobby-salazar">
 <img align="left" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
 <img align="left" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
 </p>
 
