@@ -19,33 +19,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=bobbe86&show_icons=true&theme=dark#gh-dark-mode-only" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bobbe86&show_icons=true&theme=dark#gh-dark-mode-only" />
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbe86&layout=compact"/>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbe86&layout=compact"/>
 
+<!-- <img align="left" src="memojiLaptop.jpg"/><br> -->
 
-
-
-
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<!-- [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![Top Langs LM](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbe86&layout=compact)](https://github.com/bobbe86/github-readme-stats#gh-light-mode-only)
 
 [![Top Langs DM](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbe86&layout=compact&bg-color=#000000)](https://github.com/bobbe86/github-readme-stats#gh-dark-mode-only)
+
 ![alt text](memjoi.jpg)
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) -->
 
 <img align="left" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
 <img align="left" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
-<img align="left" src="" />
-<img align="left" src="" />
+<!-- <img align="left" src="" />
+<img align="left" src="" /> -->
 
-![FreeCodeCamp]()
+<!-- ![FreeCodeCamp]()
 
-![Udemy]()
+![Udemy]() -->
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
@@ -59,4 +58,4 @@ Here are some ideas to get you started:
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) -->
