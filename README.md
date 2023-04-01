@@ -35,5 +35,25 @@ As a relatively new developer, I'm excited to showcase my skills in CSS, HTML, a
 # Connect
 
 <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
+
 </p>
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<p>
+
+
+# Other
+
+<img align="left" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
+<img align="left" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
+</p>
+
