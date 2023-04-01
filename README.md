@@ -1,4 +1,5 @@
-<img width="200" src="memojiWave.jpg"/>
+<img width="200" src="MemojiWave.png"/>
+
 
 # Hello and **WELCOME** to my **Github** 👋🏾
 
@@ -23,8 +24,7 @@ Here are some ideas to get you started:
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbe86&layout=compact"/>
 
-<!-- <img align="left" src="memojiLaptop.jpg"/><br> -->
-
+<img width="200" src="MemojiLaptop.png"/>
 <!-- [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![Top Langs LM](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbe86&layout=compact)](https://github.com/bobbe86/github-readme-stats#gh-light-mode-only)
