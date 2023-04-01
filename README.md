@@ -13,23 +13,27 @@ As a relatively new developer, I'm excited to showcase my skills in CSS, HTML, a
 
 
 <p>
-<img width="300" src="MemojiLaptop.png"/>
+<img width="250" src="MemojiLaptop.png"/>
 
 # Languages
 
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<br>
 </p>
-  
 
+<br>
 
 
 
 <p>
-<img width="300" src="MemojiCall.png"/>
+<img width="250" src="MemojiCall.png" />
+
+<br>
 
 # Connect
 
 <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
 </p>
