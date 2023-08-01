@@ -11,8 +11,8 @@ As a relatively new developer, I'm excited to showcase my skills in CSS, HTML, a
 
 <br>
 
-[![Bobby's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bobbe86&show_icons=true&theme=material-palenight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Bobby's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bobbe86&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Bobbys GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bobbe86&show_icons=true&theme=material-palenight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Bobbys GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bobbe86&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbe86&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
