@@ -2,7 +2,7 @@
 
 # Hello and **WELCOME** 👋🏾
 
-As a relatively new developer, I'm excited to showcase my skills in CSS, HTML, and JavaScript. I have a passion for web development and a desire to create visually stunning and user-friendly websites. These repos feature some of my best work and demonstrate my eagerness to learn and grow as a web developer, particularly in my understanding and implementation of JavaScript. So please, take a moment to browse and let's work together to create something beautiful and functional!
+As a passionate and aspiring web developer, I am excited to showcase my skills in CSS, HTML, and JavaScript. With a keen interest in creating visually stunning and user-friendly websites, I continuously strive to learn and grow in my craft. These repositories feature some of my best work, reflecting my dedication to mastering web development, particularly in JavaScript. I invite you to explore my projects and join me in creating something beautiful and functional together!
 
 - 🏙️ I'm a Chicago-based front end developer eager to create dynamic and responsive layouts for all devices
 - 👾 I'm actively working to improve my front-end skills, with an emphasis on JavaScript
